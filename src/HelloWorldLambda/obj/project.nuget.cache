@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GmNDzdp2TElOXq7aLDeifz9V5zXRVCmdbCkr3IfmkD7h9aDA5zqb5oQOT/5KDf6/nycXPYGD96OHVUTr3i8Oug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FREVIDAD\\source\\repos\\HelloWorldLambda\\src\\HelloWorldLambda\\HelloWorldLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FREVIDAD\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\FREVIDAD\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\FREVIDAD\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.5\\microsoft.netcore.app.crossgen2.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

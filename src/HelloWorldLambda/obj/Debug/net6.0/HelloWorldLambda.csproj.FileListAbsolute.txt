@@ -1,0 +1,17 @@
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\bin\Debug\net6.0\HelloWorldLambda.deps.json
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\bin\Debug\net6.0\HelloWorldLambda.runtimeconfig.json
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\bin\Debug\net6.0\HelloWorldLambda.dll
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\bin\Debug\net6.0\HelloWorldLambda.pdb
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\HelloWorldLambda.csproj.AssemblyReference.cache
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\HelloWorldLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\HelloWorldLambda.AssemblyInfoInputs.cache
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\HelloWorldLambda.AssemblyInfo.cs
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\HelloWorldLambda.csproj.CoreCompileInputs.cache
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\HelloWorldLambda.csproj.CopyComplete
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\HelloWorldLambda.dll
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\refint\HelloWorldLambda.dll
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\HelloWorldLambda.pdb
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\HelloWorldLambda.genruntimeconfig.cache
+C:\Users\FREVIDAD\source\repos\HelloWorldLambda\src\HelloWorldLambda\obj\Debug\net6.0\ref\HelloWorldLambda.dll

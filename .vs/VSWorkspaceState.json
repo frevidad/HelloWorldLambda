@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\HelloWorldLambda",
+    "\\test",
+    "\\test\\HelloWorldLambda.Tests"
+  ],
+  "SelectedNode": "\\src\\HelloWorldLambda\\HelloWorldLambda.csproj",
+  "PreviewInSolutionExplorer": false
+}
